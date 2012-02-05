@@ -6,28 +6,37 @@ different software I use.
 
 ## CONTENTS
 
- * Simple connectivity testing script
- * Myu global gitignore file
+* Simple connectivity testing script
+* My global gitignore file
+* Setup Google public DNS
+* Setup OpenDNS public DNS
+
+
+## TODO
+
+* Merge all the DNS related scripts in one 
+* Make DNS related scripts preconfigurable
+
 
 ## Licensing
 
-mos3abof-utils some scripts I use in my development work
-Copyright (C) 2012 Mosab Ahmad 
-
 Unless otherwise stated assume the following :
 
-    This repository is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 2 of the License, or
-    (at your option) any later version.
+	mos3abof-utils some scripts I use in my development work
+	Copyright (C) 2012 Mosab Ahmad.
 
-    The stuff here is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+	This repository is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 2 of the License, 
+	(at your option) any later version.
 
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+	The stuff here is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
 ## ABOUT ME
@@ -38,13 +47,8 @@ and an Entrepreneur in the make.
 
 For more information about me :
 
-- Please visit my personal website : http://www.mos3abof.com
+* Please visit my personal website : http://www.mos3abof.com
 
-- Follow me on twitter @mos3abof
+* Follow me on twitter http://www.twitter.com/mos3abof (@mos3abof)
 
-- View my linkedin profile : http://www.linkedin.com/in/mosab
-
-
-## TODO
-
-* Merge all the dns scripts in one and make it preconfiguratble
+* View my linkedin profile : http://www.linkedin.com/in/mosab
