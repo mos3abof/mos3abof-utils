@@ -1,7 +1,5 @@
 # mos3abof utils
 
-## WHAT IS THIS REPO
-
 This repo contains some scripts I use in my development work, some are bash, 
 some are python, some are PHP. It also contains some configuration files for
 different software I use.
