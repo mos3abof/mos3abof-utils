@@ -1,6 +1,16 @@
 # Very simple script to test connectivity to simply diagnose internet connection
 # Mosab Ahmad <mosab.ahmad@gmail.com>
 
+# TODO :
+#   1. Check if "figlet" is installed before using it in the script.
+#   2. Dynamically get the gateway instead of having it hardcoded.
+#   3. Add a list of static IP addresses, so if the first one fails because of
+#      Server downtime rather than connectivity it should check the rest of the 
+#      list before judging that the internet is down.
+#   4. Make the script interactive.
+
+
+
 # Print current /etc/resolv.conf to user
 echo "+++++++++++++++++++++++++++++++++++++"
 echo "| Current  '/etc/resolv.conf' file  |"
