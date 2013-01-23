@@ -36,7 +36,8 @@ echo "| Checking Connection without DNS resolution |"
 echo "++++++++++++++++++++++++++++++++++++++++++++++"
 echo ""
 #ping 184.106.200.233 -c 4
-ping 209.85.229.105 -c 4
+#ping 209.85.229.105 -c 4
+ping 173.194.35.35 -c 4
 echo ""
 echo ""
 
