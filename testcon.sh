@@ -1,4 +1,4 @@
-# Very simple script to test connectivity to simply diagnose internet connection
+# Very simple script for testing connectivity and diagnose internet connection
 # Mosab Ahmad <mosab.ahmad@gmail.com>
 
 # TODO :
