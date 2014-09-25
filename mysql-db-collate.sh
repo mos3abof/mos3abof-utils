@@ -1,0 +1,1 @@
+mysql --user=root --password=serverPASSWD12 --database=zlienit -B -N -e "SHOW TABLES"  | awk '{print "ALTER TABLE", $1, "CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;"}' | mysql --user=root --password=serverPASSWD12 --database=zlienit
