@@ -39,16 +39,8 @@ Unless otherwise stated assume the following :
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-## ABOUT ME
+## FIND ME ONLINE
 
-I am Mosab Ahmad, A proud Egyptian, caffeine junkie, food lover, 
-supposedly a Geek, software engineer, an Open Source believer 
-and an Entrepreneur in the make.
-
-For more information about me :
-
-* Please visit my personal website : http://www.mos3abof.com
-
-* Follow me on twitter http://www.twitter.com/mos3abof (@mos3abof)
-
-* View my linkedin profile : http://www.linkedin.com/in/mosab
+* Personal website : https://www.mos3abof.com
+* Linkedin profile : https://www.linkedin.com/in/mosab
+* Twitter https://www.twitter.com/mos3abof (@mos3abof)
